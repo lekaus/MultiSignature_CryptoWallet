@@ -5,7 +5,7 @@ coverage
 coverage.json
 typechain
 typechain-types
-prettierrc.json
+.prettierrc.json
 remix-compiler.config.js
 
 #Hardhat files
